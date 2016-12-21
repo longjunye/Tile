@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tile</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">设置</string>
+    <string name="login">登录</string>
+    <string name="ok">OK</string>
+    <string name="send_sms">验证码</string>
+    <string name="password_hint">密码</string>
+    <string name="phone">手机号码</string>
+    <string name="login_empty_field">请输入手机号码和密码</string>
+    <string name="login_wrong_phone_number">非法的手机号码</string>
+    <string name="sms_successed">验证码发送成功</string>
+    <string name="sms_failed">验证码发送失败</string>
+    <string name="login_failed">登录失败</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
